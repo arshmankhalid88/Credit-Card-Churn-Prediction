@@ -36,7 +36,7 @@ This project focuses on predicting customer churn using machine learning techniq
 3. **Key Analysis Questions**
 
 ## Materials and Methods
-The dataset used in this project is the Telco Customer Churn dataset, which is publicly available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). This dataset contains information about customers, including demographic details, account information, and whether they have churned.
+The dataset used in this project is the Credit Card Customer Churn dataset, which is publicly available on [Kaggle](https://www.kaggle.com/datasets/mukeshmanral/churn-prediction-for-credit-card-customer). This dataset contains information about customers, including demographic details, account information, and whether they have churned.
 
 ## Key Analysis Questions
 - What percentage of customers have churned?
