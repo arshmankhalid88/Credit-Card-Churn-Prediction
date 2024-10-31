@@ -17,7 +17,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0.2-yellowgreen)](https://scikit-learn.org/stable/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-orange)](https://xgboost.readthedocs.io/en/stable/)
 
-This project focuses on predicting customer churn using machine learning techniques. By analyzing the Telco Customer Churn dataset, we aim to uncover insights that can help businesses improve customer retention strategies.
+This project focuses on predicting customer churn using machine learning techniques. By analyzing the Credit Card  Customer Churn dataset, we aim to uncover insights that can help businesses improve customer retention strategies.
 
 ## Project Goals
 1. Analyze customer data to understand churn patterns.
