@@ -62,7 +62,7 @@ To set up the project, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/Credit-Card-Churn-Prediction.git
-   cd your-repo-name
+   cd Credit-Card-Churn-Prediction
    ```
 
 2. **Create a virtual environment** (optional but recommended):
