@@ -61,7 +61,7 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/Credit-Card-Churn-Prediction.git
    cd your-repo-name
    ```
 
@@ -76,7 +76,7 @@ To set up the project, follow these steps:
    pip install -r requirements.txt
    ```
 
-   If you don't have a `requirements.txt` file, you can install the libraries individually:
+   If `requirements.txt` file is not published you can install the libraries individually:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-learn
    ```
